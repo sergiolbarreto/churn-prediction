@@ -1,11 +1,4 @@
-# 🚀 Projeto Final: Previsão de Churn em Telecom
-
-## 👥 Grupo
-- Sérgio Barreto (slbp)  
-- Gabriel Felipo (gfrm)  
-- Roseane Oliveira (rocg)  
-- João Victor Soares (jvsf)  
-- Filipe Eduardo Ferreira da Silva (fefs)  
+# 🚀 Previsão de Churn em Telecom
 
 ## 📝 Descrição do Projeto
 Este projeto tem como objetivo desenvolver e avaliar modelos de classificação para prever o **churn** (abandono) de clientes em uma empresa de telecomunicações.  
